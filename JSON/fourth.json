@@ -1,0 +1,18 @@
+[
+    {
+    "type of transport": "Bus",
+    "year of production": 2015,
+    "eco": true,
+    "passengers capacity": 60,
+    "ticket price": 5.5,
+    "types of places": [
+        "sitting",
+        "standing"
+    ],
+    "schedule": {
+        "weekends": "6 am - 11 pm",
+        "working days": "4 am - 11 pm"
+    },
+    "wifi connection": false
+    }
+]
