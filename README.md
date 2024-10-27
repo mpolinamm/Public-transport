@@ -1,4 +1,5 @@
 # Public-transport
+ solomiia_1
 INTRODUCTION
 Public transportation in Krakow is a well-structured network that supports the city’s residents and tourists, providing an accessible, affordable, and eco-friendly alternative to driving. The system is managed by the Municipal Transport Authority (MPK Kraków) and includes a range of transport options such as trams, buses, and night lines. This extensive network connects the city’s historical areas, residential neighborhoods, and surrounding districts, making it convenient for people to navigate Krakow efficiently without a car. Krakow’s commitment to sustainable transportation contributes to its reputation as a forward-thinking city focused on environmental and urban mobility.
 
@@ -41,3 +42,9 @@ These images give an overview of Krakow’s well-maintained and modern public tr
 
 
 
+
+## TEAM 
+### Polina Minkova 2,3
+### Solomiia Vikovych 1,6
+### Viola Paderina 4,5
+main

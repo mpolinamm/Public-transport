@@ -1,0 +1,44 @@
+[
+    {
+        "type": "Bus",
+        "year of production": 2015,
+        "wifi connection": false,
+        "eco": true,
+        "passengers capacity": 55
+    },
+    {
+        "type": "Tram",
+        "year of production": 2010,
+        "wifi connection": true,
+        "eco": true,
+        "passengers capacity": 70
+    },
+    {
+        "type": "Trolley",
+        "year of production": 2017,
+        "wifi connection": false,
+        "eco": true,
+        "passengers capacity": 50
+    },
+    {
+        "type": "Train",
+        "year of production": 2012,
+        "wifi connection": true,
+        "eco": true,
+        "passengers capacity": 400
+    },
+    {
+        "type": "Ferry",
+        "year of production": 2005,
+        "wifi connection": true,
+        "eco": true,
+        "passengers capacity": 200
+    },
+    {
+        "type": "Metro",
+        "year of production": 1995,
+        "wifi connection": false,
+        "eco": true,
+        "passengers capacity": 300
+    }
+]
